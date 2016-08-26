@@ -5,6 +5,8 @@ TagManager:
   serializedVersion: 2
   tags:
   - Enemy
+  - roket power
+  - pit
   layers:
   - Default
   - TransparentFX

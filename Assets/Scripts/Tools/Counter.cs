@@ -9,7 +9,7 @@ public class Counter : MonoBehaviour {
 
     bool changed = false;
 
-	void Increment(){
+	public	void Increment(){
         counter++;
         changed = true;
     }
